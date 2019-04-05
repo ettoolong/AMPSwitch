@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "AMP Switch",
+    "description": ""
+  },
+  "extDescription": {
+    "message": "Switch to AMP page",
+    "description": ""
+  },
+  "autoSwitch": {
+    "message": "Auto switch",
+    "description": ""
+  },
+  "disabled": {
+    "message": "disabled",
+    "description": ""
+  },
+  "amp": {
+    "message": "to AMP",
+    "description": ""
+  },
+  "mip": {
+    "message": "to MIP",
+    "description": ""
+  }
+}
